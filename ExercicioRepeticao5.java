@@ -13,7 +13,8 @@ public class ExercicioRepeticao5{
             //valor=2*3+1=7?
             valor=2*valor+1;
             System.out.println("impar: "+valor);
-        }
+        }    
+        
     }
 }
 
